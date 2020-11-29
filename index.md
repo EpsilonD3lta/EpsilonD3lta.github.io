@@ -11,4 +11,4 @@
 - [Documentation](https://github.com/EpsilonD3lta/Documentation)
 
 ### Contact
-[Email](mailto:epsildel@gmail.com)
+[epsildel@gmail.com](mailto:epsildel@gmail.com)
