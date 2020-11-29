@@ -1,4 +1,10 @@
-## EpsilonDelta
+# EpsilonDelta
+
+## Unity assets
+- [APK Installer](https://assetstore.unity.com/packages/tools/utilities/apk-installer-159425)
+
+## Made with Unity
+- [Epidemy simulator](https://epsilondelta.itch.io/epidemy)
 
 ### Contact
 epsildel@gmail.com
@@ -18,14 +24,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EpsilonD3lta/EpsilonD3lta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
