@@ -1,6 +1,6 @@
 # EpsilonDelta
 ![](/Images/PromoBar.png)
-I am a game developer and this page represents a collection of my work. Wlecome.
+I am a game developer and this page represents a collection of my work. Welcome.
 
 ## Unity assets
 - [APK Installer](https://assetstore.unity.com/packages/tools/utilities/apk-installer-159425)
