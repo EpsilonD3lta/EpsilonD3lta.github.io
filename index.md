@@ -1,4 +1,3 @@
-# EpsilonDelta
 ![](/Images/PromoBar.png)
 I am a game developer and this page represents a collection of my work. Welcome.
 
