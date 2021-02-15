@@ -9,7 +9,7 @@ A little editor extension for Unity that simplifies android development. An inte
 ## Made with Unity
 - [Epidemy simulator](https://epsilondelta.itch.io/epidemy)\
 Random walk epidemy simulator I created out of boredom during covid pandemy. Simulates different developments of dynamic system depending on initial conditions and human behavior.\
-[![](/Images/Epidemy.png)](https://epsilondelta.itch.io/epidemy)\
+[![](/Images/Epidemy.png)](https://epsilondelta.itch.io/epidemy)
 
 - [Ski Legends](https://play.google.com/store/apps/details?id=com.powerplaymanager.skiingproto&hl=en&gl=US)\
 I am currently a Unity developer at [PowerPlay Studio](https://www.powerplay.studio/en/games/) and was part of the team that created this game.\
