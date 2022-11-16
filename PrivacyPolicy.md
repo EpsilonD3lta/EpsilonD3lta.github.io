@@ -41,7 +41,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 Email address
 
-##Usage Data
+## Usage Data
 
 Usage Data
 Usage Data is collected automatically when using the Service.
