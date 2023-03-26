@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
+show_downloads: false
+title: EpsilonDelta
+description: studio

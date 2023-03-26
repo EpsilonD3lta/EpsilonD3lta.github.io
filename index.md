@@ -1,4 +1,3 @@
-![](/Images/PromoBar.png)
 I am a game developer and this page represents a collection of my work. Welcome.
 
 ## Unity assets
@@ -21,7 +20,6 @@ I am currently a Unity developer at [PowerPlay Studio](https://www.powerplay.stu
 
 ## Unity repositories
 - [Unity Utilities](https://github.com/EpsilonD3lta/UnityUtilities)
-- [Documentation](https://github.com/EpsilonD3lta/Documentation)
 
 ### Contact
 [epsildel@gmail.com](mailto:epsildel@gmail.com)
